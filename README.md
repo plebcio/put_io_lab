@@ -1,4 +1,4 @@
-﻿# put_io_lab
+﻿# put_io_lab -- version 1.0
 Igor Warszawski \
 Today is 26.10.2023
 
