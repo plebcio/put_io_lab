@@ -9,5 +9,10 @@ public class Program {
         System.out.println("Goodby World!");
     }
         
+    
+    public static void main3(int a, int b) {
+        System.out.println(a + b);
+    }
+        
 }
 
