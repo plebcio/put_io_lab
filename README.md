@@ -1,4 +1,4 @@
-﻿# put_io_lab
+﻿# PUT IO LAB
 Igor Warszawski \
 Today is 26.10.2023
 
